@@ -7,7 +7,7 @@ Software Quality Assurance and Automation Engineer with **6+ years** of experien
 Skills: ✅Manual Testing  ✅Selenium  ✅Appium  ✅Java  ✅Python  ✅JMeter  ✅Postman  ✅Rest Assured  ✅Lighthouse  ✅SonarQube  ✅ZAP  ✅Robot Framework ✅Megalinter  ✅Gatling  ✅K6  ✅Jenkins  ✅Cucumber ✅Elasticsearch ✅MinIO ✅ RabbitMQ
 
 - 🔭 I’m currently working as Senior Software Quality Assurance Engineer at Miaki Media Ltd. 
-- 🌱 I’m currently learning Javascript for web automation. 
+- 🌱 I’m currently working with Javascript for web automation. 
 - 👯 I’m looking to collaborate on a project which has a long term client satisfaction value by ensuring software quality. 
 - 📫 How to reach me: Email : mahbubislam0511@gmail.com 
 
