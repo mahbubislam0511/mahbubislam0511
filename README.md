@@ -2,14 +2,11 @@
 ## Hi there 👋, My name is Mahbub
 ### I am Software Quality Assurance Engineer
 
-Software quality assurance and automation testing with 5+ years
-experience, I've gathered my skills in manual testing with robust and well structured test plans and test cases creation. I am expert in automation testing with selenium, appium, jmeter, sonarqube and
-various other tools. My experties include API testing, performance
-testing, database and security testing in different test platforms.
+Software quality assurance and automation testing with 6+ years experience alongwith ISTQB Certification, I develop and execute test cases in TestRail, covering databases, MinIO, RabbitMQ, Kibana, and APIs using Postman for SIT, Sanity, and Regression. I am expert in automation testing with selenium, appium, jmeter, sonarqube and various other tools. My experties include API testing, performance testing, database and security testing in different test platforms. I also Utilize Elasticsearch & Kibana to analyze logs, identify issues, and enhance application quality and reliability.
 
-Skills: ✅Manual Testing  ✅Selenium  ✅Appium  ✅Java  ✅Python  ✅JMeter  ✅Postman  ✅Rest Assured  ✅Lighthouse  ✅SonarQube  ✅ZAP  ✅Robot Framework ✅Megalinter  ✅Gatling  ✅K6  ✅Jenkins  ✅Cucumber
+Skills: ✅Manual Testing  ✅Selenium  ✅Appium  ✅Java  ✅Python  ✅JMeter  ✅Postman  ✅Rest Assured  ✅Lighthouse  ✅SonarQube  ✅ZAP  ✅Robot Framework ✅Megalinter  ✅Gatling  ✅K6  ✅Jenkins  ✅Cucumber ✅Elasticsearch ✅MinIO ✅ RabbitMQ
 
-- 🔭 I’m currently working on Save The Children TechHub Bangladesh. 
+- 🔭 I’m currently working as Senior Software Quality Assurance Engineer at Miaki Media Ltd. 
 - 🌱 I’m currently learning Javascript for web automation. 
 - 👯 I’m looking to collaborate on a project which has a long term client satisfaction value by ensuring software quality. 
 - 📫 How to reach me: Email : mahbubislam0511@gmail.com 
